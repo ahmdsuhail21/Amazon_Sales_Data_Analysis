@@ -1,7 +1,7 @@
 # Amazon_Sales_Data_Analysis
 
 ## Project Description
-This project analyzes Amazon sales data to uncover trends, patterns, and insights. The analysis was performed using Python and Power BI, with a focus on visualizing sales performance, customer behavior, and product trends.
+Amazon needs to analyze vast sales data across regions, periods, and product categories to derive actionable insights that enhance decision-making, improve customer satisfaction, and optimize resources, ensuring sustained growth and competitive advantage in a dynamic e-commerce landscape.
 
 ## Technologies Used
 - **Python**: For data cleaning, analysis, and visualizations.
