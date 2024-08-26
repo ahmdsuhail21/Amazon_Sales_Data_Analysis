@@ -1,6 +1,6 @@
 # Amazon_Sales_Data_Analysis
 
-## Project Description
+## Problem Statement
 Amazon needs to analyze vast sales data across regions, periods, and product categories to derive actionable insights that enhance decision-making, improve customer satisfaction, and optimize resources, ensuring sustained growth and competitive advantage in a dynamic e-commerce landscape.
 
 ## Technologies Used
