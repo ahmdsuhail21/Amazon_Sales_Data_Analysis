@@ -12,3 +12,11 @@ Amazon needs to analyze vast sales data across regions, periods, and product cat
 - Identification of top-performing products.
 - Analysis of customer buying behavior.
 - Visualizations and dashboards for deeper insights.
+
+## Power BI Dashboard
+
+Here is a screenshot of the Power BI dashboard:
+
+![Power BI Dashboard](Amazon_sales.png)
+
+
