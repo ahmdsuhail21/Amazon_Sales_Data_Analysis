@@ -8,10 +8,12 @@ Amazon needs to analyze vast sales data across regions, periods, and product cat
 - **Power BI**: For creating interactive dashboards and reports.
 
 ## Key Features
-- Sales performance analysis over time.
-- Identification of top-performing products.
-- Analysis of customer buying behavior.
-- Visualizations and dashboards for deeper insights.
+- Total Profit and Revenue Overview
+- Revenue vs. Profit by Product
+- Top 5 Units Sold by Item Type
+- Total Profit by Order Priority
+- Total Revenue by Sales Channel
+- Revenue by Product Category
 
 ## Power BI Dashboard
 
